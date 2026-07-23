@@ -1,4 +1,6 @@
+
 # 🤖 Swarm Fighters Brain
+<img width="1792" height="1024" alt="chatbot_conversation_robots" src="https://github.com/user-attachments/assets/3fdff8e0-e419-48da-b2b1-211f5d75f440" />
 <img width="959" height="515" alt="Screenshot 2026-07-14 000751" src="https://github.com/user-attachments/assets/e3f81215-140f-400e-845b-73d8e00cd9bd" />
 <img width="838" height="457" alt="Screenshot 2026-07-14 000955" src="https://github.com/user-attachments/assets/5a479f07-ec02-4350-8d1c-edbea462b84a" />
 <img width="798" height="458" alt="Screenshot 2026-07-14 001018" src="https://github.com/user-attachments/assets/b03acc8b-068b-41c1-8f2e-88b31bc2e0eb" />
